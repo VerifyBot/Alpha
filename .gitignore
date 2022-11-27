@@ -1,0 +1,30 @@
+# Project exclude paths
+*
+!README.md
+!.gitignore
+!requirements.txt
+!utils.py
+
+/venv
+/notebooks/.ipynb_checkpoints/
+/graphs
+/models
+/versions_to_shir
+
+# only these data files:
+#/data
+#!/data/Variants_data.csv
+#!/data/E_coli_data.csv
+#!/data/all_seqs_in_bins.csv
+#!/data/E_coli_Operon.csv
+
+/tools
+!/tools/fix_fold.py
+!/tools/folding.py
+!/tools/shinedalgarno.py
+
+/notebooks
+!/notebooks/Analyze.ipynb
+!/notebooks/Features.ipynb
+!/notebooks/FeaturesOnEcoli.ipynb
+!/notebooks/Train.ipynb

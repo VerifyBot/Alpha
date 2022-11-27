@@ -1,0 +1,12 @@
+biopython
+condacolab
+jupyter
+kaleido
+matplotlib
+pandas
+paperclip
+plotly
+progressbar
+progressbar2
+pyautogui
+scikit-learn
